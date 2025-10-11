@@ -1,0 +1,12 @@
+
+> 🚀 Excited to share the architecture of my latest project — **WorkVisionGuardian**  
+>  
+> An AI-powered, privacy-first platform for workplace productivity analytics.  
+> It processes secure camera feeds using deep learning to detect real-time activities  
+> and correlate with business KPIs — all within a zero-trust, GDPR-compliant architecture.  
+>  
+> 🔹 Tech Stack: Python · PyTorch · OpenCV · FastAPI · React · Flutter · Docker · Kubernetes  
+> 🔹 Security: End-to-end encryption, role-based access, zero-trust architecture  
+> 🔹 Compliance: GDPR & consent-first design  
+>  
+> Source is private — but the architecture and concept are public here 👉 [link to your public GitHub repo]  
